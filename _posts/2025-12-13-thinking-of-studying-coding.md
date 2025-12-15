@@ -17,7 +17,7 @@ image:
   path: /assets/img/post_imgs/thinking-of-studying-coding/studying-tech.jpg  # Add image path if your post has an image
   #lqip: data:image/...           # Add the low-quality image placeholder (base64) if needed
   alt: A person studying coding       # Image alt text for accessibility
-share_image: /assets/img/share-image.jpg  # Share image for social media
+share_image: /assets/img/post_imgs/thinking-of-studying-coding/share-image.jpg  # Share image for social media
 
 
 # Optional for rendering with Liquid (use if needed for custom rendering)
