@@ -23,15 +23,19 @@ render_with_liquid: false  # Set to true if you want to disable default Markdown
 media_subpath: /assets/img/posts/  # This is useful for linking specific media files like PDFs or external content
 ---
 
-You've probably clicked on this post because, like me, you want to learn something **new**. You're either a tech enthusiast or here because you've recently taken liking to understand how the online world works.
+The tech industry is filled with software developers, engineers, data scientists who are all *manipulating* technology to improve human lives in some manner of way. 
 
+As an everyday person how do we know where to fit in?
+You've probably clicked on this post because, like me, you want to learn something **new**.
+
+You're either a tech enthusiast or here because you've recently taken liking to understand how the online world works.
 
 
 In a world where almost everything uses some form of technology or mechanics we should be learning how it all works. 
 
 
 
-#### References:
+#### Footnote:
 <!-- Markdown supports multiple footnotes in one post. Here's one[^f1], another[^f2], and a third[^f3]. -->
 
 [^f1]: First footnote content.
