@@ -14,7 +14,7 @@ mermaid: false
 
 # Post image or media (optional)
 image:
-  path: /assets/img/post_imgs/thinking-of-studying-coding/studying-tech.jpg  # Add image path if your post has an image
+  path: /assets/img/post_imgs/thinking-of-coding/studying-tech.jpg  # Add image path if your post has an image
   #lqip: data:image/...           # Add the low-quality image placeholder (base64) if needed
   alt: A person studying coding       # Image alt text for accessibility
 share_image: /assets/img/post_imgs/thinking-of-studying-coding/share-image.jpg  # Share image for social media
