@@ -37,7 +37,7 @@ These were the exact questions that lived rent-free in my mind for years. And if
 
 That curiosity is what pushed me to study technology in the first place.
 
-# A Not-So-Perfect Start (And Why That’s Okay)
+## A Not-So-Perfect Start (And Why That’s Okay)
 
 I’ll be upfront:
 I didn’t get the best grades.
@@ -63,11 +63,11 @@ This blog exists as my learning journal — a place where I “pretend” to tea
 
 Before diving into tools and resources, there’s one thing that matters more than anything else.
 
-# Mind Before Matter
+## Mind Before Matter
 
 If you want a realistic shot at becoming an entry-level programmer, **mindset is non-negotiable**.
 
-## The Power of Deep Work
+### The Power of Deep Work
 
 You need the ability to focus deeply.
 
@@ -75,7 +75,7 @@ The idea of *deep work* was popularised by thinkers like **Carl Jung** and later
 
 This kind of focus is where real learning happens.
 
-## Your Brain Needs Fuel
+### Your Brain Needs Fuel
 
 Mental performance doesn’t exist in isolation.
 
@@ -90,7 +90,7 @@ Plenty of successful programmers look… questionable. 🙂
 
 The point is to unlock your **creative capacity**, because creativity and problem-solving are the real currencies of programming.
 
-## Track What You Learn
+### Track What You Learn
 
 You will forget things. Constantly.
 
@@ -104,7 +104,7 @@ Most successful people follow a *lifestyle* of constantly revisiting topics, doi
 
 I'm far from successful, but I know why it works.
 
-# Where Should You Begin?
+## Where Should You Begin?
 
 Once the foundations are in place, the obvious question becomes:
 
@@ -145,7 +145,7 @@ You stop thinking about syntax — and start thinking about **solutions**.
 
 That’s when coding becomes creative.
 
-# Learning Styles Matter More Than You Think
+## Learning Styles Matter More Than You Think
 
 Your next step depends on *how* you learn best.
 
@@ -179,7 +179,7 @@ What worked best for me was **structured self-study**.
 As I write this, I'm still learning how to create a structured learning program for whatever topic I want to learn, what worked there for me is using AI to help create methods or roadmaps to tackle the larger topic.
 
 
-# The Resources That Actually Helped
+## The Resources That Actually Helped
 1. A Structured GitHub Challenge
 
 This repository was a game-changer:
@@ -213,7 +213,7 @@ Whatever you learn:
 
 Learning sticks when your hands are involved.
 
-# What Comes After Python?
+## What Comes After Python?
 
 If you’re serious about learning to code, there are a few non-negotiables:
 
@@ -237,7 +237,7 @@ Rotate your learning:
 
 This prevents burnout and strengthens retention.
 
-## Algorithms: Don’t Memorise — Understand
+### Algorithms: Don’t Memorise — Understand
 
 You don’t need to memorise algorithms.
 
@@ -251,7 +251,7 @@ You need to understand:
 
 That understanding compounds over time.
 
-# Tools Worth Bookmarking
+## Tools Worth Bookmarking
 
 W3Schools
 
@@ -273,7 +273,7 @@ Online Communities / Forums
 
 Joining as many conversations online about the topic wherever you can will help with your understanding.
 
-# Final Thoughts
+## Final Thoughts
 
 I hope that by the end of reading this post I have been able to give you information that you can use to get you on the same learning path that I'm on.
 
