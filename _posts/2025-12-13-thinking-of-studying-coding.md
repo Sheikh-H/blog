@@ -1,6 +1,6 @@
 ---
 layout: post
-title: draft - Ever Thought About Learning To Code?
+title: Ever Thought About Learning To Code?
 description: >-
   I sat down to teach myself to code again, after 12 months of endeavour, this is what I can tell you...
 tags: [python, coding, courses, online, funded]
@@ -26,14 +26,14 @@ The tech industry is filled with software developers, engineers, and data scient
 
 But as everyday people, a question naturally arises:
 
-**Where do we fit in?**
+**Where do we fit in? - Other than being consumers...**
 
 What can we do that allows us to use the *same tools* to create something meaningful — or even profitable?
 
-We constantly see headlines about blue-chip companies making breakthroughs using data, automation, or artificial intelligence to “transform personalisation.”
+We constantly see headlines about blue-chip organisations making breakthroughs using data, automation, or artificial intelligence to “transform your *virtual* experience.”
 But what does that *actually* mean for us?
 
-These were the exact questions that lived rent-free in my mind for years. And if you’re reading this, chances are you’ve thought about them too.
+These were the exact questions that lived rent-free in my mind for years. And if you’re reading this, chances are - you’ve thought about them too.
 
 That curiosity is what pushed me to study technology in the first place.
 
@@ -53,7 +53,7 @@ The path was long.
 It was often tedious.
 But I’ve always enjoyed a challenge.
 
-And now, having walked that road again, I can confidently share what genuinely helped — and what didn’t.
+And now, having walked through that road again, I can confidently share what genuinely helped — and what didn’t.
 
 The reason you’re reading this post is simple:
 
@@ -65,7 +65,7 @@ Before diving into tools and resources, there’s one thing that matters more th
 
 # Mind Before Matter
 
-If you want even a realistic shot at becoming an entry-level programmer, **mindset is non-negotiable**.
+If you want a realistic shot at becoming an entry-level programmer, **mindset is non-negotiable**.
 
 ## The Power of Deep Work
 
@@ -83,10 +83,10 @@ Exercise regularly
 
 Socialise
 
-Do things that make you feel competent
+Do things that make you feel **competent**
 
-This isn’t about becoming some hyper-optimised productivity machine.
-Plenty of successful programmers look… questionable 🙂
+This isn’t about making you become some hyper-optimised productivity machine that looks and feels like Michael B. Jordan.
+Plenty of successful programmers look… questionable. 🙂
 
 The point is to unlock your **creative capacity**, because creativity and problem-solving are the real currencies of programming.
 
@@ -100,13 +100,17 @@ Which is why documenting your learning — through notes, blogs, or repositories
 
 Be patient with yourself.
 
+Most successful people follow a *lifestyle* of constantly revisiting topics, doing exams, and learning new topics.
+
+I'm far from successful, but I know why it works.
+
 # Where Should You Begin?
 
 Once the foundations are in place, the obvious question becomes:
 
 **What language should I start with?**
 
-For me, the answer was clear: Python.
+For me, the answer was clear: **Python**.
 
 I had previously learned **C#** and other object-oriented languages during college and university, but Python felt like the missing piece — the language that finally *clicked*.
 
@@ -114,23 +118,23 @@ I had previously learned **C#** and other object-oriented languages during colle
 
 Python is widely regarded as:
 
-Beginner-friendly
+- Beginner-friendly
 
-Readable
+- Readable
 
-Incredibly powerful
+- Incredibly powerful
 
-One of the most in-demand languages in the world
+- One of the *most in-demand* languages in the world
 
 With Python, you can build:
 
-Task automation scripts
+- Task automation scripts
 
-Simple applications
+- Simple applications
 
-Text-based games
+- Text-based games
 
-Data analysis tools
+- Data analysis tools
 
 And with AI tools like **ChatGPT** acting as a personal tutor, learning has never been more accessible.
 
@@ -143,15 +147,15 @@ That’s when coding becomes creative.
 
 # Learning Styles Matter More Than You Think
 
-Your next step depends heavily on *how* you learn best.
+Your next step depends on *how* you learn best.
 
 Ask yourself:
 
-[] Do I learn visually?
+- Do I learn visually?
 
-[] Do I learn by reading?
+- Do I learn by reading?
 
-[] Do I learn by doing?
+- Do I learn by doing?
 
 I’ve tried:
 
@@ -172,6 +176,9 @@ Self-study can feel scattered.
 
 What worked best for me was **structured self-study**.
 
+As I write this, I'm still learning how to create a structured learning program for whatever topic I want to learn, what worked there for me is using AI to help create methods or roadmaps to tackle the larger topic.
+
+
 # The Resources That Actually Helped
 1. A Structured GitHub Challenge
 
@@ -179,17 +186,18 @@ This repository was a game-changer:
 
 🔗 https://github.com/Asabeneh/30-Days-Of-Python
 
-It takes you from absolute beginner to entry-level familiarity in 30 days. By the end, I understood Python better than I had after completing a Level 2 coding course.
+It takes you from absolute beginner to near 
+entry-level in 30 days. By the end, I understood Python better than I had after completing a Level 2 coding course.
 
-2. YouTube — *After the Basics*
+1. YouTube — *After the Basics*
 
-Once you have some foundation, creators like Programming with Mosh become incredibly valuable.
+Once you've got the basics, course creators like Mosh Hamedani become incredibly valuable.
 
 🔗 https://www.youtube.com/@programmingwithmosh
 
 His Python course is beginner-friendly, thorough, and affordable — roughly the price of a few takeaway meals.
 
-3. Immediate Practice
+1. Immediate Practice
 
 Reading alone isn’t enough.
 
@@ -246,21 +254,28 @@ That understanding compounds over time.
 # Tools Worth Bookmarking
 
 W3Schools
-🔗 https://www.w3schools.com
-Brilliant for HTML, CSS, and quick references.
+
+🔗 https://www.w3schools.com - Brilliant for HTML, CSS, and quick references.
 
 GitHub
-🔗 https://github.com
-Explore repositories slowly. One function at a time.
 
-Python Books
-Visit your local library or grab a beginner book. Foundation matters more than memorisation.
+🔗 https://github.com - Explore repositories slowly. One function at a time.
+
+Books
+
+Visit your local library or grab a beginner book. - This will help set the context for you.
 
 Khan Academy
-🔗 https://www.khanacademy.org
-Ideal for refreshing maths and logic skills.
+
+🔗 https://www.khanacademy.org - Ideal for refreshing maths and logic skills.
+
+Online Communities / Forums
+
+Joining as many conversations online about the topic wherever you can will help with your understanding.
 
 # Final Thoughts
+
+I hope that by the end of reading this post I have been able to give you information that you can use to get you on the same learning path that I'm on.
 
 This blog won’t always sound formal.
 

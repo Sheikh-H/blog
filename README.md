@@ -6,6 +6,8 @@ Whether you're a noob in the world of **CTF** (Capture the Flag) challenges or a
 
 So, buckle up, grab your favorite brew, and let's start cracking those code vulnerabilities, analyzing networks, and building websites, one blog post at a time!
 
+I'd like to say that I haven't coded this from scratch and it is a template that I have used just to get my blogging while I learn to create one on the side.
+
 ---
 
 ## Contents Inside The Blog 📚
