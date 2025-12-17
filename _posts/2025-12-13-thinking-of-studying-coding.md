@@ -71,7 +71,7 @@ If you want a realistic shot at becoming an entry-level programmer, **mindset is
 
 You need the ability to focus deeply.
 
-The idea of *deep work* was popularised by thinkers like **Carl Jung** and later expanded on by **Cal Newport**. At its core, it’s the ability to work on a single task — uninterrupted — for extended periods (60–90 minutes).
+The idea of *deep work* was popularised by thinkers like **Carl Jung** and later expanded on by **Cal Newport**. At its core, it’s the ability to work on a single task — uninterrupted — for extended periods (60–90 minutes).[^f1]
 
 This kind of focus is where real learning happens.
 
@@ -186,12 +186,11 @@ This repository was a game-changer:
 
 🔗 https://github.com/Asabeneh/30-Days-Of-Python
 
-It takes you from absolute beginner to near 
-entry-level in 30 days. By the end, I understood Python better than I had after completing a Level 2 coding course.
+It takes you from absolute beginner to near entry-level in 30 days. By the end, I understood Python better than I had after completing a Level 2 coding course.
 
 1. YouTube — *After the Basics*
 
-Once you've got the basics, course creators like Mosh Hamedani become incredibly valuable.
+Once you've got the basics, course creators like Mosh Hamedani become incredibly valuable.[^f1]
 
 🔗 https://www.youtube.com/@programmingwithmosh
 
@@ -289,8 +288,6 @@ Until then, this space exists to help me learn, remember, and improve. Because i
 
 > You only truly learn what you use.
 
-#### Footnote:
+### Footnote:
 
-[^f1]: [Carl Jung - Deep Work](www.amazon.co.uk/carl-jung).
-[^f2]: [Asabeneh - 30 Days Of Python Programming](https://www.GitHub.com/asabeneh/30-days-of-python)
-[^f3]: [Mosh Hamedani - Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=3s)
+[^f1]: [Cal Newport - Deep Work](https://www.amazon.co.uk/Deep-Work-Focused-Success-Distracted/dp/1455586692)
