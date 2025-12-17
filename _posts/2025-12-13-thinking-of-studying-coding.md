@@ -115,7 +115,7 @@ For me, the answer was clear: **Python**.
 
 I had previously learned **C#** and other object-oriented languages during college and university, but Python felt like the missing piece — the language that finally *clicked*.
 
-🔗 <a href = "https://www.python.org" target = "_blank">https://www.python.org</a>
+🔗 [https://www.python.org](https://www.python.org)
 
 Python is widely regarded as:
 
@@ -139,7 +139,7 @@ With Python, you can build:
 
 And with AI tools like **ChatGPT** acting as a personal tutor, learning has never been more accessible.
 
-🔗 <a href = "https://chat.openai.com"target = "_blank">https://chat.openai.com</a>
+🔗 [https://chat.openai.com](https://chat.openai.com)
 
 At some point, something interesting happens:
 You stop thinking about syntax — and start thinking about **solutions**.
@@ -185,7 +185,7 @@ As I write this, I'm still learning how to create a structured learning program 
 
 This repository was a game-changer:
 
-🔗 <a href="https://github.com/Asabeneh/30-Days-Of-Python"target = "_blank">https://github.com/Asabeneh/30-Days-Of-Python</a>
+🔗 [https://github.com/Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 
 It takes you from absolute beginner to near entry-level in 30 days. By the end, I understood Python better than I had after completing a Level 2 coding course.
 
@@ -193,7 +193,7 @@ It takes you from absolute beginner to near entry-level in 30 days. By the end, 
 
 Once you've got the basics, course creators like Mosh Hamedani become incredibly valuable.
 
-🔗 <a href="https://www.youtube.com/@programmingwithmosh"target = "_blank">https://www.youtube.com/@programmingwithmosh</a>
+🔗 [https://www.youtube.com/@programmingwithmosh](https://www.youtube.com/@programmingwithmosh)
 
 His Python course is beginner-friendly, thorough, and affordable — roughly the price of a few takeaway meals.
 
@@ -255,11 +255,11 @@ That understanding compounds over time.
 
 W3Schools
 
-🔗 <a href="https://www.w3schools.com"target = "_blank">https://www.w3schools.com</a> - Brilliant for HTML, CSS, and quick references.
+🔗 [https://www.w3schools.com](https://www.w3schools.com) - Brilliant for HTML, CSS, and quick references.
 
 GitHub
 
-🔗 <a href="https://github.com"target = "_blank">https://github.com</a> - Explore repositories slowly. One function at a time.
+🔗 [https://github.com](https://github.com) - Explore repositories slowly. One function at a time.
 
 Books
 
@@ -267,7 +267,7 @@ Visit your local library or grab a beginner book. - This will help set the conte
 
 Khan Academy
 
-🔗 <a href = "https://www.khanacademy.org" target = "_blank">https://www.khanacademy.org</a> - Ideal for refreshing maths and logic skills.
+🔗 [https://www.khanacademy.org](https://www.khanacademy.org) - Ideal for refreshing maths and logic skills.
 
 Online Communities / Forums
 
