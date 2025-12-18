@@ -27,13 +27,21 @@ If you want to go on ahead and try the course yourself, I've placed the link in 
 
 Below you'll find a list of all what is taught and a link to the page of me explaining or re-explaining the topic to myself:
 
+
+
 <div align = "center">
+
+<details>
+<summary>Day 1</summary>
+  🔗 <a href = "https://sheikh-h.github.io/Blog/posts/python-day1/">Day 1 - Intro to Python</a>
+</details>
   <table style = "width: 100%">
     <tr>
       <th style = "text-align: center;">Topic</th>
       <th style = "text-align: center;">Description</th>
     </tr>
-      <td>🔗 <a href = "https://sheikh-h.github.io/Blog/posts/python-day1/">Day 1 - Intro to Python</a></td>
+    <!--  -->
+      <td></td>
       <td>An introduction to Python, its history, use cases, installation, and setting up the development environment.</td>
     <tr>
     </tr>
