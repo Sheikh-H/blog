@@ -34,14 +34,11 @@ Below you'll find a list of all what is taught and a link to the page of me expl
   🔗 <a href = "https://sheikh-h.github.io/Blog/posts/python-day1/">Day 1 - Intro to Python</a>
 </details>
 <div align = "center">
-
-
   <table style = "width: 100%">
     <tr>
       <th style = "text-align: center;">Topic</th>
       <th style = "text-align: center;">Description</th>
     </tr>
-    <!--  -->
       <td></td>
       <td></td>
     <tr>
