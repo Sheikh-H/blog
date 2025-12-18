@@ -33,12 +33,12 @@ Below you'll find a list of all what is taught and a link to the page of me expl
       <th style = "text-align: center;">Topic</th>
       <th style = "text-align: center;">Description</th>
     </tr>
-      <td>🔗 <a href = "https://www.sheikh-h.github.io/Blog/">Day 1 - Intro to Python</a></td>
+      <td>🔗 <a href = "https://sheikh-h.github.io/Blog/posts/python-day1/">Day 1 - Intro to Python</a></td>
       <td>An introduction to Python, its history, use cases, installation, and setting up the development environment.</td>
     <tr>
     </tr>
     <tr>
-      <td>🔗 <a href = "https://www.sheikh-h.github.io/Blog/">Day 2 - Variables & Builtin Functions</a></td>
+      <td>🔗 Day 2 - Variables & Builtin Functions</td>
       <td>Understanding variables, data types, naming conventions, and using built-in functions like `print()`, `len()`, `type()`, and `input()`.</td>
     </tr>
       <tr>
