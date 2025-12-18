@@ -9,5 +9,5 @@ order: 5
 <!-- <meta http-equiv="refresh" content="0;url=sheikh-h.github.io/My-Portfolio/" /> -->
 
 <script type="text/javascript">
-  window.location.href = "https://sheikh-h.github.io/My-Portfolio/";
+  window.location.href = "https://sheikh-h.github.io/";
 </script>
