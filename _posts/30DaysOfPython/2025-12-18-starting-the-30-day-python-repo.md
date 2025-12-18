@@ -38,7 +38,7 @@ Below you'll find a list of all what is taught and a link to the page of me expl
     <tr>
     </tr>
     <tr>
-      <td>🔗 <a href = "">Day 2 - Variables & Builtin Functions</a></td>
+      <td>🔗 <a href = "https://www.sheikh-h.github.io/Blog/">Day 2 - Variables & Builtin Functions</a></td>
       <td>Understanding variables, data types, naming conventions, and using built-in functions like `print()`, `len()`, `type()`, and `input()`.</td>
     </tr>
       <tr>
