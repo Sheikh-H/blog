@@ -25,16 +25,3 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
-
-_config_dev.yml
-
-_drafts/*
-_drafts/
-
-_docs/
-_docs/*
-
-#exclude this file:
-# .nojekyll
-
-Original Gemfile
