@@ -24,9 +24,7 @@ However, it could take you longer or shorter depending on you.
 
 If you want to go on ahead and try the course yourself, I've placed the link in the footnotes for you!
 
-
 Below you'll find a list of all what is taught and a link to the page of me explaining or re-explaining the topic to myself:
-
 
 <details>
 <summary>Day 1</summary>
