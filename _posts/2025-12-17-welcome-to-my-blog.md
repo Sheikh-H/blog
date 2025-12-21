@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to My Learning Journal
 description: >-
-  It’s time to sharpen my writing, return to coding, and document the journey—one lesson at a time. *non-profit* and *no downloadable content* blog - strictly focussed on my own development - links outside my blog could be included if downloads a required but please verify before download/install.
+  It’s time to sharpen my writing, return to coding, and document the journey—one lesson at a time. This blog was made as an extension to my portfolio where I can demonstrate my learning. No download links will be used.
 author: Sheikh Hussain
 date: 2025-12-17 19:27:00 +0000
 categories: [Blogging, Intro]
