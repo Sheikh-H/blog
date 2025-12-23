@@ -1,12 +1,16 @@
 # My Cyber Blog! 🖥️🔐
 
-Welcome to **My Cyber Blog** – a blog where hacking meets learning, and cyberdefense is our best friend! 🎉
+After making numerous edits to my blog, working with different Jekyll sites...
+
+Welcome to **My Blog**! – a blog where hacking meets learning, and cyberdefense is our best friend! 🎉
 
 Whether you're a noob in the world of **CTF** (Capture the Flag) challenges or a seasoned cybersecurity professional, this is the place for you. Here, we'll dive into **ethical hacking**, **CTFs**, **Nmap** wizardry, **Python scripts**, and even sprinkle in a bit of **CSS**, **HTML**, and **JavaScript**. Basically, if it has anything to do with **tech**, **cybersecurity**, or **hacking**, you’ll find it here. 🤓🔍
 
 So, buckle up, grab your favourite brew, and let's start cracking those code vulnerabilities, analysing networks, and building websites, one blog post at a time!
 
 I'd like to say that I haven't coded this from scratch, and it is a template that I have used just to get my blogging while I learn to create one on the side.
+
+> Any of the skills I learn will **not** be used for unethical practices.
 
 ---
 
