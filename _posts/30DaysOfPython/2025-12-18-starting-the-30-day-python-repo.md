@@ -11,14 +11,14 @@ pin: false
 math: false
 mermaid: false
 image:
-  path: 122025/python_programming.jpg  
-# lqip: data:image/...           
+  path: 122025/python_programming.jpg
+  # lqip: data:image/...
   alt: Image from Pexels - Python Programming
-render_with_liquid: false 
+render_with_liquid: false
 media_subpath: /assets/img/posts/
 ---
 
-I wanted to sit down and go over a course[^f1] that taught me to code with Python in just a month, as some of the concepts and methods discussed, were very indepth and hands on. The course gets you to go over one topic a day and use that as your milestone to learn the basics of the programming language. 
+I wanted to sit down and go over a course[^f1] that taught me to code with Python in just a month, as some of the concepts and methods discussed, were very in-depth and hands on. The course gets you to go over one topic a day and use that as your milestone to learn the basics of the programming language.
 
 However, it could take you longer or shorter depending on you.
 
@@ -161,4 +161,5 @@ Below you'll find a list of all what is taught and a link to the page of me expl
 </div>
 
 ### Footnote:
+
 [^f1]: [30 Days Of Python - Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python)
