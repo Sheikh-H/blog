@@ -29,6 +29,9 @@ assets/js/dist
 .devcontainer
 .devcontainer/*
 
+devcontainer
+devcontainer/*
+
 .vscode
 .vscode/*
 
