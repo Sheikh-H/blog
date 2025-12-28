@@ -5,7 +5,7 @@ description: >-
   I sat down to teach myself to code again, after 12 months of endeavour, this is what I can tell you...
 tags: [python, coding, courses, online, funded]
 author: Sheikh Hussain
-date: 2025-12-13 22:30:00 +0000 #2019-08-11 00:34:00 +0800 - this is how you would specify the time posted.
+date: 2025-12-13 22:30:00 +0000 #2019-08-11 00:34:00 +0800 - this is how you would specify the time posted
 categories: [Studying Coding, Python] #main dir, sub dir
 tags: [study, studying, coding, learning, technology, python, programming]   # Modify with your own tags
 pin: true
@@ -22,17 +22,18 @@ render_with_liquid: false  # Set to true if you want to disable default Markdown
 # Optional post for media path
 media_subpath: /assets/img/posts/  # This is useful for linking specific media files like PDFs or external content
 ---
+
 The tech industry is filled with software developers, engineers, and data scientists — all **manipulating technology to improve human lives** in one way or another.
 
 But as everyday people, a question naturally arises:
 
 **Where do we fit in? - Other than being consumers...**
 
-What can we do that allows us to use the *same tools* to create something meaningful — or even profitable?
+What can we do that allows us to use the _same tools_ to create something meaningful — or even profitable?
 
 We constantly see headlines about blue-chip organisat
-ions making breakthroughs using data, automation, or artificial intelligence to “transform your *virtual* experience.”
-But what does that *actually* mean for us?
+ions making breakthroughs using data, automation, or artificial intelligence to “transform your _virtual_ experience.”
+But what does that _actually_ mean for us?
 
 These were the exact questions that lived rent-free in my mind for years. And if you’re reading this, chances are - you’ve thought about them too.
 
@@ -72,7 +73,7 @@ If you want a realistic shot at becoming an entry-level programmer, **mindset is
 
 You need the ability to focus deeply.
 
-The idea of *deep work* was popularised by thinkers like **Carl Jung** and later expanded on by **Cal Newport**. At its core, it’s the ability to work on a single task — uninterrupted — for extended periods (60–90 minutes)[^f1].
+The idea of _deep work_ was popularised by thinkers like **Carl Jung** and later expanded on by **Cal Newport**. At its core, it’s the ability to work on a single task — uninterrupted — for extended periods (60–90 minutes)[^f1].
 
 This kind of focus is where real learning happens.
 
@@ -101,7 +102,7 @@ Which is why documenting your learning — through notes, blogs, or repositories
 
 Be patient with yourself.
 
-Most successful people follow a *lifestyle* of constantly revisiting topics, doing exams, and learning new topics.
+Most successful people follow a _lifestyle_ of constantly revisiting topics, doing exams, and learning new topics.
 
 I'm far from successful, but I know why it works.
 
@@ -113,7 +114,7 @@ Once the foundations are in place, the obvious question becomes:
 
 For me, the answer was clear: **Python**.
 
-I had previously learned **C#** and other object-oriented languages during college and university, but Python felt like the missing piece — the language that finally *clicked*.
+I had previously learned **C#** and other object-oriented languages during college and university, but Python felt like the missing piece — the language that finally _clicked_.
 
 🔗 [https://www.python.org](https://www.python.org)
 
@@ -125,7 +126,7 @@ Python is widely regarded as:
 
 - Incredibly powerful
 
-- One of the *most in-demand* languages in the world
+- One of the _most in-demand_ languages in the world
 
 With Python, you can build:
 
@@ -148,7 +149,7 @@ That’s when coding becomes creative.
 
 ## Learning Styles Matter More Than You Think
 
-Your next step depends on *how* you learn best.
+Your next step depends on _how_ you learn best.
 
 Ask yourself:
 
@@ -179,8 +180,8 @@ What worked best for me was **structured self-study**.
 
 As I write this, I'm still learning how to create a structured learning program for whatever topic I want to learn, what worked there for me is using AI to help create methods or roadmaps to tackle the larger topic.
 
-
 ## The Resources That Actually Helped
+
 1. A Structured GitHub Challenge
 
 This repository was a game-changer:
@@ -189,7 +190,7 @@ This repository was a game-changer:
 
 It takes you from absolute beginner to near entry-level in 30 days. By the end, I understood Python better than I had after completing a Level 2 coding course.
 
-1. YouTube — *After the Basics*
+1. YouTube — _After the Basics_
 
 Once you've got the basics, course creators like Mosh Hamedani become incredibly valuable.
 
@@ -279,7 +280,7 @@ I hope that by the end of reading this post I have been able to give you informa
 
 This blog won’t always sound formal.
 
-It’s written to speak to *you*, not at *you*.
+It’s written to speak to _you_, not at _you_.
 
 If I can relate to where you are right now, then the time you spent reading this was worth it.
 
