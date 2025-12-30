@@ -5,7 +5,7 @@ description: >-
   I wanted to go through the content several times and post all about it. Here I'll do my best to explain each topic...
 author: Sheikh Hussain
 date: 2025-12-18 08:00:00 +0000
-categories: [Python, Courses]
+categories: [Python, Course, 30 Day of Python]
 tags: [python, programming, course, 30days, complete]
 pin: false
 math: false
