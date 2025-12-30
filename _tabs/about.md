@@ -14,6 +14,8 @@ Here, you’ll find posts about what I’m learning, updates from the tech and c
 
 When I’m not coding, I enjoy exploring new gadgets, socialising, golfing, and trying different cuisines 🍣.
 
-Sometimes I'll post without including all the bits of information I have on them, this is to allow readers to get in touch and enable me to improve my learning on any topic.
+Sometimes I'll post without including all the bits of information I have on them, this is to allow readers to get in touch and enable me to improve my learning on any topic. While also I will post using a lot of AI content as it helps speed up the process to my learning, writing, and posting.
+
+What I want to achieve with using AI in my learning is the ability to break a topic down, have it rewritten in a format that everyone is able to relate to and then reword it myself. I think that using AI in the right way helps boost productivity and enhances creativity, which we all need!
 
 Dive in, explore, and maybe even share a laugh 😂. Curious about my work? Check out my portfolio through the tabs on the left! 👈
